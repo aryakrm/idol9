@@ -1,0 +1,25 @@
+.Card {
+  margin: 2px;
+  width: 100%;
+  .ant-image {
+    background-color: transparent;
+  }
+  .ant-image-mask {
+    background-color: transparent;
+  }
+  .img {
+    width: 100%;
+
+    background-color: transparent !important;
+  }
+}
+
+@media only screen and (min-width: 940px) {
+  .Card {
+    margin: 0.5rem;
+    width: 32%;
+    .img {
+      width: 100%;
+    }
+  }
+}

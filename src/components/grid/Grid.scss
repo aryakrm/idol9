@@ -1,0 +1,17 @@
+.MuiBox-root {
+  display: none;
+  .MuiMasonry-root {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .MuiBox-root {
+    display: block;
+    margin: 0;
+    width: 100% !important;
+    .css-wecjbi-MuiMasonry-root {
+      margin: 0;
+    }
+  }
+}

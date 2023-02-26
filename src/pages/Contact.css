@@ -1,0 +1,129 @@
+.Contact {
+  background: #222222;
+  color: rgb(243, 243, 243);
+  font-family: "PT SERIF";
+  width: 100%;
+  overflow: hidden;
+}
+
+h1 {
+  color: rgb(243, 243, 243);
+}
+
+sub {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.wpIcon {
+  color: greenyellow;
+}
+
+.contact-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 5rem;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.contact-form h4 {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: fit-content;
+  border: 2px solid #999;
+  border-radius: 1rem;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.button {
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  border: 2px solid #999;
+  background-color: transparent;
+  border-radius: 10rem;
+  color: rgb(243, 243, 243);
+  margin-top: 1rem;
+  font-weight: 700;
+  margin-left: 35%;
+}
+.button:hover {
+  color: #222222;
+  cursor: pointer;
+
+  background-color: #999;
+}
+
+.phone > a {
+  text-decoration: none;
+  color: rgb(243, 243, 243);
+}
+.phone > a:hover {
+  color: #999;
+}
+
+.titles {
+  color: #999;
+  font-weight: 60000;
+  font-size: 1.5rem;
+}
+h4 {
+  font-size: 0.5rem;
+  width: 20rem;
+}
+p {
+  font-family: "PT SERIF";
+}
+
+.input {
+  padding: 7px;
+  font-size: 20px;
+  border-width: 2px;
+  border-color: #999;
+  background-color: #ffffff;
+  color: #000000;
+  border-style: outset;
+  border-radius: 14px;
+  box-shadow: -3px 0px 5px rgba(66, 66, 66, 0.8);
+  text-shadow: -50px 0px 0px rgba(66, 66, 66, 0);
+}
+
+.input:focus {
+  outline: none;
+}
+
+textarea {
+  padding: 1rem;
+}
+
+@media (max-width: 940px) {
+  .contact-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+}

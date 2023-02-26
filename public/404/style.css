@@ -1,0 +1,111 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  -webkit-animation: colorSlide 15s cubic-bezier(0.075, 0.82, 0.165, 1) infinite;
+  animation: colorSlide 15s cubic-bezier(0.075, 0.82, 0.165, 1) infinite;
+}
+.flex-container .text-center {
+  text-align: center;
+}
+.flex-container .text-center img {
+  width: 50%;
+}
+.flex-container .text-center h1,
+.flex-container .text-center h3 {
+  margin: 10px;
+  cursor: default;
+}
+.flex-container .text-center h1 .fade-in,
+.flex-container .text-center h3 .fade-in {
+  -webkit-animation: fadeIn 2s ease infinite;
+  animation: fadeIn 2s ease infinite;
+}
+.flex-container .text-center h1 {
+  font-size: 8em;
+  transition: font-size 200ms ease-in-out;
+  border-bottom: 1px dashed white;
+}
+.flex-container .text-center h1 span#digit1 {
+  -webkit-animation-delay: 200ms;
+  animation-delay: 200ms;
+}
+.flex-container .text-center h1 span#digit2 {
+  -webkit-animation-delay: 300ms;
+  animation-delay: 300ms;
+}
+.flex-container .text-center h1 span#digit3 {
+  -webkit-animation-delay: 400ms;
+  animation-delay: 400ms;
+}
+.flex-container .text-center button {
+  border: 1px solid white;
+  background: transparent;
+  outline: none;
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+  transition: background-color 200ms ease-in;
+  margin: 20px 0;
+}
+.flex-container .text-center button:hover {
+  background-color: white;
+  color: #555;
+  cursor: pointer;
+}
+
+@-webkit-keyframes colorSlide {
+  0% {
+    background-color: #222222;
+  }
+  25% {
+    background-color: rgb(68, 68, 68);
+  }
+  50% {
+    background-color: rgb(141, 141, 141);
+  }
+  75% {
+    background-color: rgb(115, 116, 82);
+  }
+  100% {
+    background-color: #685915;
+  }
+}
+
+@keyframes colorSlide {
+  0% {
+    background-color: #222222;
+  }
+  25% {
+    background-color: rgb(68, 68, 68);
+  }
+  50% {
+    background-color: rgb(141, 141, 141);
+  }
+  75% {
+    background-color: rgb(115, 116, 82);
+  }
+  100% {
+    background-color: #685915;
+  }
+}
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+} /*# sourceMappingURL=Error404.css.map */
