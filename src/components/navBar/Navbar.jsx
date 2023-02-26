@@ -100,7 +100,7 @@ function Navbar() {
       ) : null}
       <Link to={"/"}>
         <div className="logo">
-          <img src="https://i.ibb.co/H7DtFmb/1.png" alt="LemonAdler-9 Logo" />
+          <img src="logo.png" alt="Idol9 Logo" />
         </div>
       </Link>
       {/* <select value={lang} onChange={handleChange}>

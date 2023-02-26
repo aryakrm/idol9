@@ -15,12 +15,8 @@ function AboutUs() {
         className="about-left"
       >
         <h1>{t("who_are_we")}</h1>
-        <p>{t("about_desc")}</p>
-        <img
-          className="logo"
-          src="https://i.ibb.co/H7DtFmb/1.png"
-          alt="LemonAdler-9 Logo"
-        />
+        <p>Idol9 {t("about_desc")}</p>
+        <img className="logo" src="logo.png" alt="Idol9 Logo" />
       </motion.div>
       <motion.div
         initial={{ x: "100vh" }}

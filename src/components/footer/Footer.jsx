@@ -14,7 +14,7 @@ function Footer() {
       </div>
       <div className="foorter-menu">
         <div className="logo">
-          <img src="https://i.ibb.co/H7DtFmb/1.png" alt="LemonAdler-9 Logo" />
+          <img src="logo.png" alt="idol9 Logo" />
         </div>
         <div className="socialMedia">
           <a target="_blank" href="https://www.instagram.com/lemonadler9">

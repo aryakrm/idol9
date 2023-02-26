@@ -56,13 +56,10 @@ function Contact() {
             <sub>
               <WhatsAppIcon className="wpIcon" /> {t("wp_sub")}
             </sub>
-            <a href="https://wa.me/905340367033" target="_blank">
-              <h2>+90 534 036 70 33</h2>
-              <p>Sultan Gokçe - CEO and Founder of LemonAdler</p>
-            </a>
+
             <a href="https://wa.me/905550644012" target="_blank">
               <h2>+90 555 064 40 12</h2>
-              <p>Ali Rabiei - Partner and Senior Designer</p>
+              <p>Ali Rabiei - Founder of Idol9 and Senior Designer</p>
             </a>
           </div>
           <div className="emails">
@@ -70,8 +67,7 @@ function Contact() {
               {" "}
               <EmailIcon /> {t("email_addresses")}
             </h2>
-            <h2>info@lemonadler-9.com</h2>
-            <h2>business@lemonadler-9.com</h2>
+            <h2>info@idol9.com</h2>
           </div>
           <div className="adress">
             <h2 className="titles">
