@@ -24,10 +24,7 @@ function AboutUs() {
         transition={{ type: "spring", stiffness: 120 }}
         className="about-right"
       >
-        <img
-          src="https://i.ibb.co/BgtGKsY/2023-01-16-16-57-56.jpg"
-          alt="LemonAdler"
-        />
+        <img src="/assets/aboutImage.jpg" alt="LemonAdler" />
       </motion.div>
     </div>
   );
