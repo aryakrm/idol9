@@ -17,23 +17,17 @@ function Footer() {
           <img src="logo.png" alt="idol9 Logo" />
         </div>
         <div className="socialMedia">
-          <a target="_blank" href="https://www.instagram.com/lemonadler9">
-            <ImInstagram />
-          </a>
           <a
             target="_blank"
-            href="https://www.linkedin.com/company/lemonadler-9/"
+            href="https://www.instagram.com/idol9.architecture/"
           >
+            <ImInstagram />
+          </a>
+          <a target="_blank" href="http://www.linkedin.com/in/idol9">
             <ImLinkedin />
           </a>
-          <a target="_blank" href="https://wa.me/905340367033">
+          <a target="_blank" href="https://wa.me/905550644012">
             <FaWhatsappSquare />
-          </a>
-          <a target="_blank" href="https://www.behance.net/lemonadler-9">
-            <ImBehance2 />
-          </a>
-          <a target="_blank" href="https://twitter.com/Lemonadler9">
-            <FaTwitterSquare />
           </a>
         </div>
       </div>
