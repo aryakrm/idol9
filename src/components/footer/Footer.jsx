@@ -3,14 +3,12 @@ import "./Footer.scss";
 import { ImInstagram } from "react-icons/im";
 import { ImLinkedin } from "react-icons/im";
 import { FaWhatsappSquare } from "react-icons/fa";
-import { ImBehance2 } from "react-icons/im";
-import { FaTwitterSquare } from "react-icons/fa";
 
 function Footer() {
   return (
     <div className="Footer">
       <div className="contact">
-        <p>info@lemonadler-9.com</p>
+        <p>info@idol9.com</p>
       </div>
       <div className="foorter-menu">
         <div className="logo">

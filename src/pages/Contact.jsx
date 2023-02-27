@@ -53,9 +53,9 @@ function Contact() {
               {" "}
               <LocalPhoneIcon /> {t("phone_numbers")}
             </h2>
-            <sub>
+            <p>
               <WhatsAppIcon className="wpIcon" /> {t("wp_sub")}
-            </sub>
+            </p>
 
             <a href="https://wa.me/905550644012" target="_blank">
               <h2>+90 555 064 40 12</h2>
