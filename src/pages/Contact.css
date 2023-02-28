@@ -128,7 +128,7 @@ textarea {
 }
 
 .payment > img {
-  width: 6%;
+  width: 3rem;
 }
 .payment > svg {
   font-size: 3rem;
@@ -144,5 +144,8 @@ textarea {
   }
   .payment > svg {
     font-size: 1.5rem;
+  }
+  .payment > img {
+    width: 1.5rem;
   }
 }
