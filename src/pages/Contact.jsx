@@ -5,6 +5,11 @@ import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 import EmailIcon from "@mui/icons-material/Email";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
+import { FaEthereum } from "react-icons/fa";
+import { FaBitcoin } from "react-icons/fa";
+import { FaCcMastercard } from "react-icons/fa";
+import { FaCcVisa } from "react-icons/fa";
+import { FaGooglePay } from "react-icons/fa";
 import emailjs from "@emailjs/browser";
 import { motion } from "framer-motion";
 import "./Contact.css";
@@ -78,6 +83,14 @@ function Contact() {
               Yukarı Dudullu, Şerifali Mah. Tavukçuyolu cad. <br />
               No: 266, Ümraniye, İstanbul, Turkey
             </h5>
+          </div>
+          <div className="payment">
+            <FaBitcoin />
+            <FaEthereum />
+            <FaCcMastercard />
+            <FaCcVisa />
+            <FaGooglePay />
+            <img src="western-union.svg" alt="westernUnion" />
           </div>
         </div>
         <div className="contact-form">

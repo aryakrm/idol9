@@ -119,6 +119,21 @@ textarea {
   padding: 1rem;
 }
 
+.payment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  opacity: 0.7;
+}
+
+.payment > img {
+  width: 4rem;
+}
+.payment > svg {
+  font-size: 3rem;
+}
+
 @media (max-width: 940px) {
   .contact-wrapper {
     display: flex;
