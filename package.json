@@ -35,6 +35,7 @@
     "react-router-dom": "^6.7.0",
     "react-scripts": "5.0.1",
     "react-slick": "^0.29.0",
+    "react-spring": "^9.7.1",
     "react-whatsapp-chat-widget": "^1.1.2",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.6",
