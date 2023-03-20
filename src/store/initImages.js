@@ -67,39 +67,10 @@ const imageData = [
     alt: `image ${nanoid()}`,
   },
   //------------------------------------------------------------------------------------------------
-  {
-    id: nanoid(),
-    src: "/assets/ext1.jpeg",
-    alt: `image ${nanoid()}`,
-  },
-  {
-    id: nanoid(),
-    src: "/assets/ext2.jpeg",
-    alt: `image ${nanoid()}`,
-  },
-  {
-    id: nanoid(),
-    src: "/assets/ext3.jpeg",
-    alt: `image ${nanoid()}`,
-  },
-  {
-    id: nanoid(),
-    src: "/assets/ext4.jpeg",
-    alt: `image ${nanoid()}`,
-  },
+
   {
     id: nanoid(),
     src: "/assets/ext5.jpeg",
-    alt: `image ${nanoid()}`,
-  },
-  {
-    id: nanoid(),
-    src: "/assets/ext6.jpeg",
-    alt: `image ${nanoid()}`,
-  },
-  {
-    id: nanoid(),
-    src: "/assets/ext7.jpeg",
     alt: `image ${nanoid()}`,
   },
   {
