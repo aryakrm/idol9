@@ -13,11 +13,6 @@ const imageData = [
   },
   {
     id: nanoid(),
-    src: "/assets/02.jpg",
-    alt: `image ${nanoid()}`,
-  },
-  {
-    id: nanoid(),
     src: "/assets/03.jpg",
     alt: `image ${nanoid()}`,
   },
