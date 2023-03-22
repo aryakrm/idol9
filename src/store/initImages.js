@@ -51,6 +51,131 @@ const imageData = [
     src: "/assets/010.jpg",
     alt: `image ${nanoid()}`,
   },
+  {
+    id: nanoid(),
+    src: "/assets/011.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/012.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/013.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/014.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/015.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/016.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/017.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/018.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/019.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/020.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/021.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/022.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/023.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/024.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/025.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/026.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/027.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/028.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/029.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/030.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/031.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/032.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/033.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/034.jpg",
+    alt: `image ${nanoid()}`,
+  },
+  {
+    id: nanoid(),
+    src: "/assets/035.jpg",
+    alt: `image ${nanoid()}`,
+  },
 
   //--------------------------------------------------------------------------------------------------------
   {
