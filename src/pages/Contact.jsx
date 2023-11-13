@@ -63,7 +63,8 @@ function Contact() {
             </p>
 
             <a href="https://wa.me/905550644012" target="_blank">
-              <h2>+971 526 49 08 50</h2>
+              <h2>English Manager +971 526 49 08 50</h2>
+              <h2>Russian Manager +7 922 174 22 22</h2>
               <p>Ali Rabiei - Founder of Idol9 and Senior Designer</p>
             </a>
           </div>
@@ -80,8 +81,7 @@ function Contact() {
               <LocationOnIcon /> {t("address")}
             </h2>
             <h5>
-              Yukarı Dudullu, Şerifali Mah. Tavukçuyolu cad. <br />
-              No: 266, Ümraniye, İstanbul, Turkey
+              United Arab Emirates, Dubai, Business Bay
             </h5>
           </div>
           <div className="payment">
