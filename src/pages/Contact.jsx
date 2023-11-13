@@ -63,7 +63,7 @@ function Contact() {
             </p>
 
             <a href="https://wa.me/905550644012" target="_blank">
-              <h2>+90 555 064 40 12</h2>
+              <h2>+971 526 49 08 50</h2>
               <p>Ali Rabiei - Founder of Idol9 and Senior Designer</p>
             </a>
           </div>
