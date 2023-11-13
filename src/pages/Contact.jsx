@@ -63,9 +63,8 @@ function Contact() {
             </p>
 
             <a href="https://wa.me/905550644012" target="_blank">
-              <h2>English Manager +971 526 49 08 50</h2>
-              <h2>Russian Manager +7 922 174 22 22</h2>
-              <p>Ali Rabiei - Founder of Idol9 and Senior Designer</p>
+              <h3>English Manager +971 526 49 08 50</h3>
+              <h3>Russian Manager +7 922 174 22 22</h3>
             </a>
           </div>
           <div className="emails">
