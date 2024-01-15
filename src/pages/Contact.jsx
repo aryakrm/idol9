@@ -64,7 +64,6 @@ function Contact() {
 
             <a href="https://wa.me/905550644012" target="_blank">
               <h3>English Manager +971 526 49 08 50</h3>
-              <h3>Russian Manager +7 922 174 22 22</h3>
             </a>
           </div>
           <div className="emails">
